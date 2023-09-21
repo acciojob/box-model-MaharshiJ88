@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+#box {
+	width: 600px;
+	height: 200px;
+	background-color: rgb(212,211,211);
+	border: 5px solid black;
+	border-radius: 50px;
+	padding: 3px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.circle {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	display: block;
+}
+
+#green {
+	background-color: green;
+}
+
+#yellow {
+	background-color: yellow;
+}
+
+#red {
+	background-color: red;
+}
